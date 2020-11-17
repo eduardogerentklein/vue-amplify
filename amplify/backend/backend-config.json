@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "vueserverless4e5f185a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
